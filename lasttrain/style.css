@@ -6,8 +6,13 @@ body {
     background-size: 10%;
 }
 
-h1 {
+.title {
     color: #61dafb;
+    text-align: center;
+}
+
+h1 {
+    color: #8d8d8d;
     text-align: center;
 }
 
