@@ -6,6 +6,11 @@ body {
     background-size: 10%;
 }
 
+.title {
+    color: #8d8d8d;
+    text-align: center;
+}
+
 h1 {
     color: #61dafb;
     text-align: center;
